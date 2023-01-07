@@ -1,0 +1,8 @@
+dependencies:
+- rust=1.48.0
+- cargo=0.50.0
+
+apt:
+- rustc=1.48.0
+- cargo=0.50.0
+
