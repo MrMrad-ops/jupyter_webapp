@@ -1,8 +1,10 @@
+name: my-project
+channels:
+- defaults
 dependencies:
-rust=1.48.0
-cargo=0.50.0
+- rust
+- cargo
 
 apt:
-rustc=1.48.0
-cargo=0.50.0
-
+- rustc
+- cargo
